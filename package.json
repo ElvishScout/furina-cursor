@@ -1,0 +1,12 @@
+{
+  "name": "ani",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Jiang Jiakai",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ani-cursor": "^0.0.5",
+    "ico-to-png": "^0.2.2"
+  }
+}
