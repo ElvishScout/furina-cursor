@@ -1,6 +1,6 @@
 # Furina Cursor
 
-<img src="demo.svg" wdth="500" />
+![demo](./demo.svg)
 
 These cute animations were originally created by [@Snooa_o](https://x.com/Snooa_o), you may go to <https://ko-fi.com/s/68b8bb9b08> to download a copy. I wrote a brief script to convert the `.ani` files to CSS animations. You only need to apply these classes to your elements in order to take effect:
 
