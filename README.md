@@ -2,7 +2,7 @@
 
 ![demo](./demo.svg)
 
-These cute animations were originally created by [@Snooa_o](https://x.com/Snooa_o), you may go to <https://ko-fi.com/s/68b8bb9b08> to download a copy. I wrote a brief script to convert the `.ani` files to CSS animations. You only need to apply these classes to your elements in order to take effect:
+These cute animations were originally created by [@Snooa_o](https://x.com/Snooa_o), you may go to <https://ko-fi.com/s/68b8bb9b08> to download a copy. <del>I wrote a script to convert the `.ani` files to CSS animations</del> There is something wrong with my code, so forget about it, but I managed to get the correct CSS file. You only need to apply these classes to your elements:
 
 | Class Name                  | Cursor Type |
 | --------------------------- | ----------- |
@@ -20,7 +20,5 @@ These cute animations were originally created by [@Snooa_o](https://x.com/Snooa_
 | `cursor-furina-wait`        | wait        |
 | `cursor-furina-progress`    | progress    |
 | `cursor-furina-alias`       | alias       |
-
-Examples can be found under `examples` folder.
 
 Have fun.
