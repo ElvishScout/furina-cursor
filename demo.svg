@@ -160,7 +160,7 @@
         href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAUVBMVEUAAAAAAAD3/v80W/HnxHxdc7r///8mNr0sMHPurGz19vpagrXB4PWSw+EEAx/+2tM1RIU8EjL/8OjbfpCBMF/8xcBBT5QmL06W2v8vLzE6TH6gqjoqAAAAAnRSTlP/AOW3MEoAAAFRSURBVHgBdZSNfoMgDMTPqi2SONRa+/H+D7oLIorrbj8l5v4kMLQAqiisqs4CLmsStWkDdpTAgcjZpmlz5UsigGv2WwKJiEAkcL0mAnTbrcYKkDDfCHa/3ZoIOOzABVn06tpqdF0G1v0B3nvRjXAZSDtC34t4r4noOpfWsG2H0yMhshK3NC/ZP+b7JGz1M4Bs21084Jw7VgAkTe9XwudzOawgGiT6GEjZQmmpBHoqifizBiEQVDUMQWw3vliDVy9DoIwKgXABQJnQYQzjxMkcdO+R7lZzGMdxojjYIguABIFpExuddsEm7CH07ncDGGsJGCHzYy3wmH32d4AE/3nLPC8c2OAMsAT/lufr9VxiWJ0BRmifUXwZj+k9bNr6VXvHt+GY3SN+FrWrG9di/0AK4P2OZ+YV+aROLWBMvL62sIcpAGEqc8XD5wO7/gWqLz8Bv1Y0ExKZXlp5AAAAAElFTkSuQmCC" />
     </g>
     <animate attributeName="viewBox" values="0 0 32 32;32 0 32 32;64 0 32 32;96 0 32 32;128 0 32 32;160 0 32 32"
-      dur="600ms" repeatCount="indefinite" calcMode="discrete" />
+      dur="900ms" repeatCount="indefinite" calcMode="discrete" />
   </symbol>
   <symbol id="text">
     <g width="32" height="32">
@@ -192,7 +192,7 @@
         href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAUVBMVEUAAAAAAAA0W/HnxHxdc7r////19vomNr0sMHOSw+HurGxagrXB4PVV6f8EAx/+2tM1RIU8EjL/8OjbfpCBMF/8xcBBT5QmL06W2v8vLzE6TH6qU4knAAAAAXRSTlMAQObYZgAAAUdJREFUeAF1lAsaojAMhBnAWEh2C4j4uP9Bd1JgpTzih63MnzRNU4sCsxWXhtJtB2QeONGrqt4SN/+x8UFN4EfgdnMCsr4B1foXw3UnIOJBuPr9XiUgYM0n7QKNOAJqZekx2vaQOQm1lQh7AE2jKmIz8adtw06neyJU5xj3TMdf12UxpPjb4uC/7N/KXEMIWwLQxb2ZCd/OIUQSSDRpotkJwCiZRmqmC5EDqQIao5nFLqrvRrIcxES7SHMqRsIZAOML6/rYD3TmYEuevwges+v7fqBx8CQlL5QDw2pciLvIC+1rKLXHwwHObX+Upjo+5wDPUQ46a2nKrKZxnDhwgUObw/iZXu/3a0rTk/Znr76SsRlPrwl7tXyXEtgN5zpLX4ayCjUO92QGPp90ZmLe36ch4Ex6rm4qhgjE4foi4/uFP5dAcfJP8A/Hmg/yKBosWAAAAABJRU5ErkJggg==" />
     </g>
     <animate attributeName="viewBox" values="0 0 32 32;32 0 32 32;64 0 32 32;96 0 32 32;128 0 32 32;160 0 32 32"
-      dur="600ms" repeatCount="indefinite" calcMode="discrete" />
+      dur="900ms" repeatCount="indefinite" calcMode="discrete" />
   </symbol>
   <use xlink:href="#default" x="16" y="16" width="32" height="32" />
   <use xlink:href="#default-2" x="80" y="16" width="32" height="32" />
